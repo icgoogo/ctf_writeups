@@ -1,0 +1,1762 @@
+[!] Could not populate PLT: No module named 'distutils'
+[*] '/home/hammad/hammad/odc/ptr_protection/ptr_protection'
+    Arch:       amd64-64-little
+    RELRO:      Full RELRO
+    Stack:      Canary found
+    NX:         NX enabled
+    PIE:        PIE enabled
+    SHSTK:      Enabled
+    IBT:        Enabled
+    Stripped:   No
+    Debuginfo:  Yes
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501403
+0x6
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501403)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501428
+0x18
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501428)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501451
+0x55
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501451)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501471
+0x69
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501471)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501484
+0x77
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501484)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501492
+0x6e
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501492)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501499
+0xd8
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501499)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501517
+0x72
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501517)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501530
+0x50
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501530)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501537
+0x6d
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501537)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501548
+0x4
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501548)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501566
+0xf0
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501566)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501574
+0x62
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501574)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501581
+0x6f
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501581)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501599
+0xa
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501599)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501612
+0x93
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501612)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501620
+0xa2
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501620)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501631
+0x68
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501631)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501649
+0x41
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501649)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501662
+0x3c
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501662)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501669
+0x94
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501669)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501676
+0x5
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501676)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501701
+0x96
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501701)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501709
+0x21
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501709)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501717
+0x69
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501717)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501746
+0x25
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501746)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501759
+0x52
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501759)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501766
+0xc9
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501766)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501773
+0x4b
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501773)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501793
+0xc1
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501793)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501806
+0xd1
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501806)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501813
+0x3
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501813)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501820
+0x92
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501820)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501845
+0xfd
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501845)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501852
+0x50
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501852)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501859
+0xc9
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501859)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501877
+0xe
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501877)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501890
+0x88
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501890)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501897
+0x3a
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501897)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501904
+0x3a
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501904)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501922
+0x88
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501922)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501935
+0x4e
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501935)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501942
+0xf8
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501942)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501950
+0xfd
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501950)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501975
+0x6c
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501975)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501982
+0xde
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501982)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 501989
+0xf9
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 501989)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502017
+0x9
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502017)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502030
+0x31
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502030)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502037
+0xb0
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502037)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502044
+0x7e
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502044)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502069
+0xb
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502069)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502079
+0x18
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502079)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502086
+0xce
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502086)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502104
+0xe0
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502104)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502117
+0x4b
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502117)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502124
+0xc4
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502124)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502131
+0xa7
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502131)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502149
+0x8c
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502149)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502162
+0xbc
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502162)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502173
+0x6c
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502173)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502180
+0x13
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502180)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502205
+0x9e
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502205)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502212
+0x70
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502212)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502219
+0x50
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502219)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502238
+0x3a
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502238)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502252
+0x1e
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502252)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502259
+0x96
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502259)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502266
+0xff
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502266)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502294
+0x79
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502294)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502307
+0x84
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502307)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502314
+0xc1
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502314)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502321
+0xd6
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502321)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502339
+0x1a
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502339)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502388
+0xb8
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502388)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502459
+0xa3
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502459)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502472
+0x37
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502472)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502510
+0x1f
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502510)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502663
+0x9c
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502663)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502669
+0x6b
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502669)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502679
+0xba
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502679)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502705
+0x3f
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502705)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502712
+0xfa
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502712)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502719
+0x98
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502719)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502726
+0xd0
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502726)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502756
+0xf0
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502756)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502765
+0x27
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502765)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502772
+0xad
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502772)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502790
+0xcd
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502790)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502809
+0x3e
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502809)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502816
+0x5f
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502816)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502823
+0xb2
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502823)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502841
+0x64
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502841)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502854
+0x73
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502854)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502878
+0xf6
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502878)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502926
+0xd5
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502926)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502946
+0x72
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502946)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502953
+0x37
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502953)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502973
+0x99
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502973)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 502994
+0x55
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 502994)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503007
+0xe0
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503007)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503015
+0xf6
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503015)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503024
+0x12
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503024)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503049
+0xbc
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503049)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503057
+0xcd
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503057)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503064
+0xad
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503064)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503082
+0x1a
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503082)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503095
+0xb4
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503095)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503102
+0xb9
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503102)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503127
+0x60
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503127)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503185
+0x84
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503185)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503198
+0xdb
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503198)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503205
+0xc3
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503205)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503217
+0x8d
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503217)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503252
+0xba
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503252)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503259
+0x51
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503259)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503267
+0xd3
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503267)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503286
+0x9c
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503286)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503299
+0xf1
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503299)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503309
+0x4b
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503309)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503316
+0x54
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503316)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503337
+0xf5
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503337)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503352
+0xcb
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503352)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503359
+0x28
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503359)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503375
+0x2f
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503375)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503395
+0x11
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503395)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503410
+0x16
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503410)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503420
+0x39
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503420)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503438
+0x15
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503438)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503458
+0x36
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503458)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503465
+0xf9
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503465)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503472
+0x4a
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503472)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503497
+0xa5
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503497)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503504
+0xf6
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503504)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503511
+0x21
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503511)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503529
+0xc6
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503529)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503552
+0xab
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503552)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503561
+0xa9
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503561)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503568
+0xad
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503568)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503586
+0x7d
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503586)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503601
+0x46
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503601)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503608
+0x30
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503608)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503615
+0xe
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503615)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503650
+0xa6
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503650)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503658
+0x28
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503658)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503665
+0x8b
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503665)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503683
+0xae
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503683)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503696
+0x8a
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503696)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503703
+0xe2
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503703)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503710
+0x73
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503710)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503728
+0x9f
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503728)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503741
+0x10
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503741)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503748
+0x73
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503748)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503755
+0xb4
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503755)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503773
+0xe9
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503773)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503786
+0x80
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503786)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503796
+0xa8
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503796)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503807
+0x18
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503807)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503825
+0xb1
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503825)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503836
+0xaf
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503836)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503843
+0xbd
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503843)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503861
+0x7b
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503861)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503879
+0x4a
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503879)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503886
+0xb0
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503886)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503893
+0xd9
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503893)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503928
+0x90
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503928)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503935
+0xaf
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503935)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503942
+0x5
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503942)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503961
+0x96
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503961)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503974
+0x52
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503974)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503981
+0xa3
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503981)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 503988
+0x17
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 503988)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504007
+0x12
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504007)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504020
+0x97
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504020)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504027
+0xba
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504027)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504034
+0xbe
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504034)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504059
+0x1
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504059)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504066
+0xcd
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504066)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504073
+0xfd
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504073)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504101
+0xb1
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504101)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504116
+0x36
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504116)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504123
+0x8a
+
+[*] Process './ptr_protection' stopped with exit code -4 (SIGILL) (pid 504123)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504130
+0x2f
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504130)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504149
+0xa7
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504149)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504162
+0xda
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504162)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504169
+0xb7
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504169)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504176
+0xdd
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504176)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504211
+0xa3
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504211)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504218
+0x63
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504218)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504225
+0xe7
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504225)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504243
+0xe5
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504243)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504256
+0x7f
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504256)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504263
+0x59
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504263)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504280
+0x9c
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504280)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504298
+0xe2
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504298)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504324
+0x12
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504324)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504331
+0xc4
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504331)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504338
+0x1f
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504338)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504363
+0x69
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504363)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504390
+0xcc
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504390)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504402
+0xfb
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504402)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504436
+0xcc
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504436)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504455
+0x1f
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504455)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504473
+0x31
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504473)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504480
+0xa1
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504480)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504498
+0x6a
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504498)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504511
+0xd3
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504511)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504518
+0xd1
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504518)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504526
+0xa1
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504526)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504553
+0x35
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504553)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504567
+0xd0
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504567)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504574
+0xeb
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504574)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504581
+0x40
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504581)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504599
+0x0
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504599)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504612
+0x48
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504612)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504619
+0xe9
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504619)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504634
+0x2e
+
+[*] Process './ptr_protection' stopped with exit code -14 (SIGALRM) (pid 504634)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504688
+0x80
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504688)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504708
+0x6e
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504708)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504721
+0x88
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504721)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504728
+0xfb
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504728)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504735
+0x3
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504735)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504753
+0x76
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504753)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504766
+0xad
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504766)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504773
+0x9e
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504773)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504780
+0x47
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504780)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504798
+0x14
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504798)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504811
+0xe5
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504811)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504818
+0xeb
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504818)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504829
+0x5d
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504829)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504847
+0x2c
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504847)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504854
+0xb6
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504854)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504871
+0xf3
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504871)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504889
+0x3
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504889)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504902
+0x84
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504902)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504909
+0x80
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504909)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504916
+0xf6
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504916)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504934
+0x9c
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504934)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504948
+0x9b
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504948)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504955
+0x4b
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504955)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504962
+0x79
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504962)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504987
+0x32
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504987)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 504994
+0x83
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 504994)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505001
+0x5b
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505001)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505012
+0x22
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505012)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505030
+0xb7
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505030)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505037
+0xee
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505037)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505046
+0xc1
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505046)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505064
+0xc0
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505064)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505077
+0x7a
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505077)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505085
+0x38
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505085)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505092
+0x38
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505092)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505110
+0x43
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505110)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505123
+0xd7
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505123)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505130
+0xc9
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505130)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505137
+0x40
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505137)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505162
+0xcf
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505162)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505169
+0xfe
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505169)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505180
+0xa2
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505180)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505198
+0x95
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505198)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505211
+0xf2
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505211)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505218
+0xd
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505218)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505226
+0xda
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505226)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505244
+0x15
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505244)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505258
+0xc
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505258)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505265
+0xbe
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505265)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505272
+0x7f
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505272)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505300
+0xf0
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505300)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505313
+0x80
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505313)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505320
+0x30
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505320)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505331
+0x35
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505331)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505349
+0x60
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505349)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505356
+0x4f
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505356)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505364
+0xb7
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505364)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505382
+0xd3
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505382)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505395
+0x9c
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505395)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505402
+0x16
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505402)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505411
+0xd5
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505411)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505429
+0x66
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505429)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505442
+0x12
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505442)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505449
+0xa3
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505449)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505460
+0x7
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505460)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505478
+0x9f
+
+[*] Process './ptr_protection' stopped with exit code -14 (SIGALRM) (pid 505478)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505553
+0x3d
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505553)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505571
+0xe9
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505571)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505673
+0x38
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505673)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505683
+0x77
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505683)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505690
+0x8a
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505690)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505708
+0x1d
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505708)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505721
+0x7e
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505721)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505732
+0x7d
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505732)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505758
+0xf9
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505758)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505806
+0x6e
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505806)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505828
+0x95
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505828)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505860
+0x7e
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505860)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505903
+0x5a
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505903)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505925
+0x19
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505925)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505957
+0x6
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505957)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 505989
+0xec
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 505989)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 506013
+0xe0
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 506013)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 506050
+0xa9
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 506050)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 506064
+0xd6
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 506064)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 506108
+0x72
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 506108)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 506129
+0x7f
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 506129)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 506165
+0x28
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 506165)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 506205
+0x6e
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 506205)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 506231
+0xe4
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 506231)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 506268
+0x2d
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 506268)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 506293
+0x9d
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 506293)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 506324
+0x9f
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 506324)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 506345
+0x2e
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 506345)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 506388
+0x47
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 506388)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 506409
+0xd9
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 506409)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 506441
+0x45
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 506441)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 506472
+0x64
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 506472)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 506507
+0xc6
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 506507)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 506555
+0x4e
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 506555)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 506585
+0xaf
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 506585)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 506616
+0x46
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 506616)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 506648
+0xca
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 506648)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 506696
+0x62
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 506696)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 506717
+0x6a
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 506717)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 506750
+0x97
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 506750)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 506782
+0xd9
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 506782)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 506807
+0x54
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 506807)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 506845
+0x9a
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 506845)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 506859
+0x20
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 506859)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 506902
+0xbf
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 506902)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 506923
+0xcc
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 506923)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 506961
+0x1a
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 506961)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 506994
+0x68
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 506994)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 507019
+0x7c
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 507019)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 507056
+0xae
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 507056)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 507091
+0x6b
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 507091)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 507122
+0x68
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 507122)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 507143
+0x8b
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 507143)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 507186
+0x6d
+WIN
+here is the flag: 
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 507186)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 507207
+0x12
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 507207)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 507239
+0xf4
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 507239)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 507270
+0x99
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 507270)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 507295
+0x81
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 507295)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 507331
+0x83
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 507331)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 507346
+0xb8
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 507346)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 507392
+0xbb
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 507392)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 507415
+0xa4
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 507415)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 507447
+0x29
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 507447)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 507479
+0x78
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 507479)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 507514
+0x37
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 507514)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 507551
+0xd5
+
+[*] Process './ptr_protection' stopped with exit code -11 (SIGSEGV) (pid 507551)
+[x] Starting local process './ptr_protection'
+[+] Starting local process './ptr_protection': pid 507576
+0xca
+[*] Stopped process './ptr_protection' (pid 507576)

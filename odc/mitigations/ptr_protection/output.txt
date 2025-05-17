@@ -1,0 +1,2233 @@
+[!] Could not populate PLT: No module named 'distutils'
+[*] '/home/hammad/hammad/odc/ptr_protection/ptr_protection'
+    Arch:       amd64-64-little
+    RELRO:      Full RELRO
+    Stack:      Canary found
+    NX:         NX enabled
+    PIE:        PIE enabled
+    SHSTK:      Enabled
+    IBT:        Enabled
+    Stripped:   No
+    Debuginfo:  Yes
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x2b
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xd7
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x28
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x68
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xb8
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x6d
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x98
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x17
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x6e
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x51
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x56
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x2a
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xd1
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x34
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x24
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x22
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xcd
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x70
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x4d
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x74
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x71
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xdb
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x4f
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xa5
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x31
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x38
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x4a
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xc6
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x2b
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x3d
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xde
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x8e
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x10
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xa6
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x5
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x8d
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x40
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xb5
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x31
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x3b
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x63
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xe4
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x3b
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xed
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x4a
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x4d
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xfb
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xc
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x6b
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xe6
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xc3
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xc1
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x34
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xc6
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xc5
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x0
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x27
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x93
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x97
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xb
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xef
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xcf
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x60
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x2a
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xf2
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x26
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x55
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xef
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xc1
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xab
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xc1
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xb3
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xe5
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xc1
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x4b
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xb9
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x42
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x1a
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x9e
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x33
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xc2
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xa0
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xf6
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x5e
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xde
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xf0
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xa2
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x18
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x35
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x7
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xcd
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xc6
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xe7
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x29
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xe2
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xf8
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xd8
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xad
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xc
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xb5
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xaf
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x3
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xb4
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xe
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x12
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x32
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xe2
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xbc
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x61
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x2b
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x5
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x8a
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x16
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xd
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x21
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xe2
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xed
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x7
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x93
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xec
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x55
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x31
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x47
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xe2
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x4b
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x7c
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x50
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xb1
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x97
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x60
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x41
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xb9
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x9d
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x12
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x2c
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x4c
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xd2
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x38
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x15
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x1
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x72
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xa6
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xcf
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xb5
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x1c
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x19
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xf1
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xf6
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xeb
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xd
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x53
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x97
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xda
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x24
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x63
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x31
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x83
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xbe
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x85
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xb2
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xce
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x7f
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x19
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x96
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x52
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x20
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x3b
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xba
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x68
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x8d
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x8c
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x19
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xd1
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x43
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xe7
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x3d
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x7b
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xee
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xc9
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x4e
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x82
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xe1
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x9a
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x3f
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xa2
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x91
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x5a
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xec
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x76
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x73
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x22
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xe
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x56
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xf
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x7e
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xa1
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xa1
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x2f
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xaf
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xe5
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xe7
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x3e
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xf7
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x20
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xe9
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xc4
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x8a
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x25
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xee
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xec
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x4b
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xc7
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x58
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x31
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xf7
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x55
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x52
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x3d
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x50
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x2
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xac
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x5f
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x96
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xff
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x62
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xc2
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x3f
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x68
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x1e
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xcb
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x20
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xb1
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xb9
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x55
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xac
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xe5
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x88
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x8a
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x91
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xe6
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xc9
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x44
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x33
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x4c
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x20
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x51
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xf0
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x1d
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xc7
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x98
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xff
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x8e
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xcd
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x4c
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x1d
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x72
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x44
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x99
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x8e
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x26
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x8f
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xd2
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xcc
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x73
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x20
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x23
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xac
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x67
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x91
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x64
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x39
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x6
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xd6
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xea
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x5a
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xf6
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xf6
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x5c
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x90
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xf3
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x6d
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xce
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x85
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xf9
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xb2
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x18
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x9d
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x67
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x25
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x14
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x63
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xcd
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xab
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xd6
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x7
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x6
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xe6
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xd9
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x2
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x1e
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x90
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xc2
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xed
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x4b
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x48
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x48
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x1d
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xa4
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xb2
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x9b
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xd2
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x38
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x41
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x3e
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x70
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x39
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xc9
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xe
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x8a
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x86
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x87
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x62
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xc8
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x99
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x8c
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x3e
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x67
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xfa
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xf7
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xad
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xd
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xc6
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x5c
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x42
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xb6
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x7c
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x76
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xb1
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x19
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x68
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x2
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xd7
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x20
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xc4
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x30
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xff
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xea
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x0
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x49
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xe4
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xd4
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xdc
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x93
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x7f
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x28
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xa3
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x6f
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x4c
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xca
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xef
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x78
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xb2
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xe6
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x4e
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xbd
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x33
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x97
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xb9
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0xa9
+
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080
+[x] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Trying 35.159.228.254
+[+] Opening connection to ptr-protection.training.offensivedefensive.it on port 8080: Done
+0x7d
+WIN
+here is the flag: 
+b'\nflag{only_1byte_is_really_random_tham_zeroos!}'
+[*] Closed connection to ptr-protection.training.offensivedefensive.it port 8080
